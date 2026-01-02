@@ -1,4 +1,5 @@
 💻 **Matrix Operations in C**
+
 Matrix Operations in C is a console-based application that demonstrates core mathematical computations using structured programming concepts in C. This project strengthens problem-solving skills, algorithmic thinking, and practical application of programming fundamentals.
 
 🔹 **Features**
