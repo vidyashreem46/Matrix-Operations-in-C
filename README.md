@@ -1,5 +1,4 @@
-💻 **Matrix Operations in C
-**
+💻 **Matrix Operations in C**
 Matrix Operations in C is a console-based application that demonstrates core mathematical computations using structured programming concepts in C. This project strengthens problem-solving skills, algorithmic thinking, and practical application of programming fundamentals.
 
 🔹 **Features**
@@ -18,15 +17,15 @@ Algorithmic thinking for matrix operations
 Handling user input and validation
 Debugging and testing console-based programs
 
-🔹 **Future Improvements (Optional Advanced Features)
-**
+🔹 **Future Improvements (Optional Advanced Features)**
+
 Dynamic memory allocation using pointers for flexible matrix sizes
 Determinant calculation, scalar multiplication, and matrix inversion
 Enhanced UI with better formatting and input validation
 Complexity analysis for each operation
 
-🔹** How It Works
-**
+🔹**How It Works**
+
 User chooses the desired matrix operation.
 User inputs matrix dimensions and elements.
 
